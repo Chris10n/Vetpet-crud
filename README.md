@@ -2,7 +2,7 @@
 
 A simple and elegant veterinary pet records management system built with PHP and MySQL.
 
-## ✨ Features
+##  Features
 
 - **Create** - Add new pet records with images
 - **Read** - View all pet records in a responsive card layout
@@ -12,7 +12,7 @@ A simple and elegant veterinary pet records management system built with PHP and
 - **Dark/Light Mode** - Toggle between themes
 - **Responsive Design** - Works on all devices
 
-## 🛠️ Technologies
+##  Technologies
 
 - PHP
 - MySQL
@@ -20,7 +20,7 @@ A simple and elegant veterinary pet records management system built with PHP and
 - SweetAlert2
 - PDO for database operations
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
 ```bash
@@ -39,7 +39,7 @@ git clone https://github.com/Chris10n/Vetpet-crud.git
    - Place the project in your web server directory (htdocs/www)
    - Access via `http://localhost/Vetpet-crud/`
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Vetpet-crud/
@@ -53,7 +53,7 @@ Vetpet-crud/
 └── pets/           # Additional resources
 ```
 
-## 🚀 Usage
+##  Usage
 
 1. Visit the main page to view all registered pets
 2. Click "Add New Pet" to register a new pet
