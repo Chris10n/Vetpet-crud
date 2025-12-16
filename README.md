@@ -61,10 +61,6 @@ Vetpet-crud/
 4. Use "Delete" button to remove a pet record
 5. Toggle dark/light mode using the switch in the navbar
 
-## 📝 License
-
-Open source - feel free to use and modify!
-
 ---
 
 Made with ❤️ for veterinary clinics
